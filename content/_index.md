@@ -1,7 +1,7 @@
 ---
 title: "Chathuri Jayaweera"
-subtitle: "NLP Research Engineer @ Cognius.ai"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+subtitle: "NLP Researcher @ Cognius.ai"
+description: "One place to document all of my adventures. Here, you would be able to see my attempts at learning **data visualization** and all the beginner level visualizations I have done. I will try to add my own poetry corner here as well."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
